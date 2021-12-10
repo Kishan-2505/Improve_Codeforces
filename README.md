@@ -60,8 +60,7 @@ python3 manage.py runserver --insecure
 * If you get any error after running this command,solve it ,it must be because of lack of dependencies.
 * Now you can see a link like this:
 
-![terminal screen shot](https://drive.google.com/uc?export=view&id=1u36hYEULnXGlm00tzhakXLUoicCZq9QT)
-* Now type that url (http://127.0.0.1:8000/) in your Favourite browser and hit ENTER
+* Now type the url in your Favourite browser and hit ENTER
 
 ### Inspiration, code snippets, etc.
 * [codeforces-visulizer](https://cfviz.netlify.app/)
