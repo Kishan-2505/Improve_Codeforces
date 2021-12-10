@@ -62,19 +62,6 @@ python3 manage.py runserver --insecure
 
 ![terminal screen shot](https://drive.google.com/uc?export=view&id=1u36hYEULnXGlm00tzhakXLUoicCZq9QT)
 * Now type that url (http://127.0.0.1:8000/) in your Favourite browser and hit ENTER
-* You can see login page,enter your codforces Handle and click on sign-in:
-
-![login-page](https://drive.google.com/uc?export=view&id=1MY67Yu89yHI-yplsL0YWHgTFG76OfzFg)
-* Now you can see your profile with your information and recommended problems based on your performance.
-
-![profile](https://drive.google.com/uc?export=view&id=1A3PHuGXENkaooFmiZYTR_Df0SijwL6BZ)
-
-![recommended-section](https://drive.google.com/uc?export=view&id=1oTjIGw6hgQyAAvhqkvpuT2N8xY2OLZ0K)
-
-* You can click on any problem to open that problem and start solving.
-* Click on the future-contest link in nav-bar to see up-coming contests woth it's details.
-![contests](https://drive.google.com/uc?export=view&id=1GGOmtCD5LuRI0WwwjK00lySeSDQBycio)
-* Login and Start Solving!
 
 ### Inspiration, code snippets, etc.
 * [codeforces-visulizer](https://cfviz.netlify.app/)
